@@ -8,7 +8,27 @@ A starter template for ReactNative with Expo & Tailwind in TypeScript with a [mo
 - [Tailwind-rn](https://github.com/vadimdemedes/tailwind-rn)
 - [TypeScript](https://typescriptlang.org)
 
+[<img src="https://ik.imagekit.io/iutsav/fork-on-codesandbox__e0mFWzr1.png?updatedAt=1641916982302" width="200"/>](https://githubbox.com/utsavdotpro/starter-rn-expo-tailwind-ts)
+
 ---
+
+## How to Reuse Locally?
+
+Use `degit` to download the repository locally.
+
+> ### ❓ What is [degit](https://github.com/Rich-Harris/degit)?
+> degit downloads a copy of git repository with downloading its entire git history.
+
+Install degit globally.
+
+````bash
+npm install -g degit
+````
+
+Download the latest version
+````bash
+degit utsavdotpro/starter-rn-expo-tailwind-ts
+````
 
 ## Getting Started
 
