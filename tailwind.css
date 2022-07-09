@@ -1,0 +1,39 @@
+.hidden {
+  display: none
+}
+
+.items-center {
+  align-items: center
+}
+
+.rounded-full {
+  border-radius: 9999px
+}
+
+.bg-blue-200 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(191 219 254 / var(--tw-bg-opacity))
+}
+
+.px-3 {
+  padding-left: 0.75rem;
+  padding-right: 0.75rem
+}
+
+.py-1 {
+  padding-top: 0.25rem;
+  padding-bottom: 0.25rem
+}
+
+.pt-12 {
+  padding-top: 3rem
+}
+
+.font-semibold {
+  font-weight: 600
+}
+
+.text-blue-800 {
+  --tw-text-opacity: 1;
+  color: rgb(30 64 175 / var(--tw-text-opacity))
+}
