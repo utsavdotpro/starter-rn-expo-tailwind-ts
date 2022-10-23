@@ -3,10 +3,10 @@
 A starter template for ReactNative with Expo & Tailwind in TypeScript with a [modular project structure](#project-structure)
 
 ### Tech Stack
-- [Expo](https://expo.dev/)
-- [ReactNative](https://reactnative.dev/)
-- [Tailwind-rn](https://github.com/vadimdemedes/tailwind-rn)
-- [TypeScript](https://typescriptlang.org)
+- [Expo](https://expo.dev/) v46
+- [ReactNative](https://reactnative.dev/) v0.69
+- [Tailwind-rn](https://github.com/vadimdemedes/tailwind-rn) v4
+- [TypeScript](https://typescriptlang.org) v4
 
 [<img src="https://ik.imagekit.io/iutsav/fork-on-codesandbox__e0mFWzr1.png?updatedAt=1641916982302" width="200"/>](https://githubbox.com/utsavdotpro/starter-rn-expo-tailwind-ts)
 

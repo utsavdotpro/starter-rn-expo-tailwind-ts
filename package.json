@@ -12,26 +12,27 @@
     "dev:tailwind": "concurrently \"tailwindcss --input App.css --output tailwind.css --no-autoprefixer --watch\" \"tailwind-rn --watch\""
   },
   "dependencies": {
-    "expo": "~45.0.0",
-    "expo-status-bar": "~1.3.0",
-    "react": "17.0.2",
-    "react-dom": "17.0.2",
-    "react-native": "0.68.2",
-    "react-native-web": "0.17.7",
+    "@expo/webpack-config": "^0.17.0",
+    "expo": "^46.0.0",
+    "expo-status-bar": "~1.4.0",
+    "react": "18.0.0",
+    "react-dom": "18.0.0",
+    "react-native": "0.69.6",
+    "react-native-web": "~0.18.7",
     "tailwind-rn": "^4.2.0"
   },
   "devDependencies": {
-    "@babel/core": "^7.12.9",
+    "@babel/core": "^7.18.6",
     "@types/express": "^4.17.14",
     "@types/node": "^18.11.3",
-    "@types/react": "~17.0.21",
-    "@types/react-native": "~0.67.6",
+    "@types/react": "~18.0.0",
+    "@types/react-native": "~0.69.1",
     "concurrently": "^7.2.2",
     "nodemon": "^2.0.20",
     "postcss": "^8.4.14",
     "tailwindcss": "^3.1.5",
     "ts-node": "^10.9.1",
-    "typescript": "^4.8.4"
+    "typescript": "^4.6.3"
   },
   "private": true
 }
