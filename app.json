@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "subminder",
-    "slug": "subminder",
+    "name": "starter-rn-expo-tailwind-ts",
+    "slug": "starter-rn-expo-tailwind-ts",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./public/icon.png",
