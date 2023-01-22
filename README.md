@@ -1,6 +1,8 @@
+[<img src="https://ik.imagekit.io/iutsav/fork_l0RKONb5l.svg" height="30" />](https://githubbox.com/utsavdotpro/starter-rn-expo-tailwind-ts)
+
 # RN with Expo & Tailwind in TypeScript
 
-A starter template for ReactNative with Expo & Tailwind in TypeScript with a [modular project structure](#project-structure)
+A starter template for ReactNative with Expo & Tailwind in TypeScript with an opinionated [modular project structure](#project-structure)
 
 ### Tech Stack
 - [Expo](https://expo.dev/) v46
@@ -8,16 +10,13 @@ A starter template for ReactNative with Expo & Tailwind in TypeScript with a [mo
 - [Tailwind-rn](https://github.com/vadimdemedes/tailwind-rn) v4
 - [TypeScript](https://typescriptlang.org) v4
 
-[<img src="https://ik.imagekit.io/iutsav/fork-on-codesandbox__e0mFWzr1.png?updatedAt=1641916982302" width="200"/>](https://githubbox.com/utsavdotpro/starter-rn-expo-tailwind-ts)
-
 ---
 
 ## How to Reuse Locally?
 
-Use `degit` to download the repository locally.
+Use [degit](https://github.com/Rich-Harris/degit) to download the repository locally.
 
-> ### ❓ What is [degit](https://github.com/Rich-Harris/degit)?
-> degit downloads a copy of git repository with downloading its entire git history.
+> `degit` downloads a copy of git repository with its entire git history.
 
 Install degit globally.
 
@@ -29,6 +28,8 @@ Download the latest version
 ````bash
 degit utsavdotpro/starter-rn-expo-tailwind-ts
 ````
+
+---
 
 ## Getting Started
 
